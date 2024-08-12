@@ -19,6 +19,7 @@ public void launch()
 	
 	driver.get("https://www.lamborghini.com/en-en");
 	Reporter.log("lamborgini launched successfully",true);
+	Reporter.log("lamborgini launched successfully",true);
 	
 }
 }
